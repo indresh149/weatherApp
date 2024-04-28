@@ -57,7 +57,7 @@ export default function HomeScreen() {
   const fetchPlaceName = async (latitude: number, longitude: number) => {
     try {
       const response = await axios.get(
-        `https://maps.googleapis.com/maps/api/geocode/json?latlng=${latitude},${longitude}&key=${PROCESS.ENV.GOOGLE_MAPS_API_KEY}`
+        `https://maps.googleapis.com/maps/api/geocode/json?latlng=${latitude},${longitude}&key=${process.env.GOOGLE_MAPS_API_KEY}`
       );
       const address = response.data.results[0].formatted_address;
       console.log('address', address);
