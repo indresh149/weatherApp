@@ -13,3 +13,7 @@
 
 https://drive.google.com/drive/folders/1PoTzmwPk1CgVo_tXRCYDkzViq4th9Uou?usp=sharing
 
+#Preview
+
+![WhatsApp Image 2024-04-29 at 00 33 26_52b1264b](https://github.com/indresh149/weatherApp/assets/76736055/8e841558-8c1f-4ced-9f0b-76a4e252cf02)
+
